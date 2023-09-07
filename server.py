@@ -22,7 +22,6 @@ processor = AutoProcessor.from_pretrained("suno/bark")
 
 @app.get("/{prompt}")
 async def inference(prompt: str):
-  prompt = "Hello, world!"
   inputs = processor(prompt)
   sampling_rate = model.generation_config.sample_rate
 
