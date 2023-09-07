@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+scipy
+transformers
+fastapi
+uvicorn
