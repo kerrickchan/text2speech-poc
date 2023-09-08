@@ -3,5 +3,6 @@ torchvision
 torchaudio
 scipy
 transformers
+accelerate
 fastapi
 uvicorn

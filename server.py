@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# export HF_DATASETS_CACHE="~/Desktop/v2v/.cache/huggingface/hub"
+# export HF_DATASETS_CACHE="~/Desktop/text2speech-poc/.cache/huggingface/hub"
 
 import os
 import torch

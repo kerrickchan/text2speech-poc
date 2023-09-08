@@ -11,6 +11,9 @@ pip install -r requirements.txt
 python server.py
 ```
 
+## Output
+`project_path/*.wav`
+
 ## [API Docs](http://localhost:8000/docs)
 http://localhost:8000/docs
 
